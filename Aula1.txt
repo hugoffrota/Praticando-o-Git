@@ -1,0 +1,3 @@
+Introdução ao Linux + Instalação da VM (Ex.: O que é Linux?)
+
+Aprendemos sobre Linux e a diferença entre um Kernel e um sistema operacional. Além disso aprendemos a instalar uma máquina virtual 
