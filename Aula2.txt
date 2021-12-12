@@ -1,0 +1,1 @@
+Nessa aula aprendemos diferentes comandos de linux. Gostei do comando nano por ele já criar um arquivo para edição 
