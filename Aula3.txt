@@ -1,0 +1,1 @@
+Nessa aula aprendemos como funciona o git, comparando ele com diferentes linhas de tempo
