@@ -1,2 +1,0 @@
-senha VM: 1234
-senha Github: kakashi
